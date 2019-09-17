@@ -9,8 +9,7 @@ From the abstract of Cook, Bixler, Thomas, and Early (2019): Monte Carlo methods
 1. [Introduction](#intro)
 2. [What are all these files for?](#files)
 3. [Installation](#install)
-4. [Beginner's User Guide](#begin)
-5. [Advanced User Guide](#advanced)
+4. [User Guide](#begin)
 
 ## Introduction <a name="intro">
 
