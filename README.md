@@ -14,7 +14,7 @@ From the abstract of Cook, Bixler, Thomas, and Early (2019): Monte Carlo methods
 
 ## Introduction <a name="intro">
 
-This repository serves as the public release of Integrating Sphere Monte Carlo (ISMC). Every word written in this repo was written by me, Patrick Cook - so any bugs/typos/errors/etc can be blamed on me. This README will hopefully provide enough information alongside our paper (Prediction of Tissue Optical Properties Using Monte Carlo Modeling of Photon Transport in Turbid Media and Integrating Spheres by Cook, Early, Bixler, and Thomas) so that anyone who may want to predict the optical coefficients of samples can use this code.
+This repository serves as the public release of Integrating Sphere Monte Carlo (ISMC). Every word written in this repo was written by me, Patrick Cook (except for those in the PRAXIS code) - so any bugs/typos/errors/etc can be blamed on me. This README will hopefully provide enough information alongside our paper (Prediction of Tissue Optical Properties Using Monte Carlo Modeling of Photon Transport in Turbid Media and Integrating Spheres by Cook, Early, Bixler, and Thomas) so that anyone who may want to predict the optical coefficients of samples can use this code.
 
 Of course, other people have written software to do this exact same thing before (I'm looking at you, Scott Prahl, with your fancy IAD). However, the more options are available to the community, the better.
 
